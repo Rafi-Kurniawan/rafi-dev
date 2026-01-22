@@ -10,34 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
-
-```javascript
-const rafi = {
-    name: "Rafi Kurniawan",
-    role: "Full Stack Developer",
-    location: "Indonesia 🇮🇩",
-    education: "Computer Science Student",
-    code: ["HTML", "CSS", "JavaScript", "Java", "Python"],
-    askMeAbout: ["web dev", "tech", "design"],
-    technologies: {
-        frontEnd: {
-            languages: ["HTML5", "CSS3", "JavaScript"],
-            frameworks: ["Learning React..."]
-        },
-        backEnd: {
-            languages: ["Java", "JavaScript"],
-            runtime: ["Node.js"],
-        },
-        databases: ["MySQL", "MongoDB"],
-        tools: ["GitHub", "Figma", "VS Code"],
-    },
-    currentFocus: "Building Full-Stack Applications",
-    funFact: "I debug with console.log() 😄"
-};
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
