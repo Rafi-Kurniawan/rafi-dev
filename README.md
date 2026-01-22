@@ -1,75 +1,109 @@
-# 👋 Hi there, I'm Rafi Kurniawan!
+# <div align="center">👋 Hi, I'm Rafi Kurniawan</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+Full+Stack+Development;Building+Cool+Projects!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://instagram.com/ye_fann.23"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:kurniawanrafi421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/rafikurniawan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+Saya adalah seorang mahasiswa yang passionate dalam dunia web development. Saat ini sedang belajar dan mengembangkan skill di bidang frontend dan backend development.
+
+- 🌱 Sedang belajar full-stack development
+- 💻 Fokus pada JavaScript ecosystem
+- 🎯 Goal: Menjadi Full-Stack Developer yang handal
+- 📫 Reach me: **kurniawanrafi421@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+### Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafikurniawan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikurniawan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafikurniawan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
-
-I'm a **Computer Science student** passionate about learning web development and building projects that solve real problems.
-
-- 🎓 Currently studying **Computer Science**
-- 💻 Learning **Frontend & Backend Development**
-- 🌱 Exploring new technologies every day
-- 🎯 Building my portfolio one project at a time
-
----
-
-## 🛠️ Technologies I'm Learning
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Backend & Database
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafi-dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi-dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2F80ED" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rafikurniawan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🎯 What I'm Working On
+## 📈 Activity Graph
 
-- 📚 Learning data structures and algorithms
-- 🔨 Building simple web applications
-- 💡 Creating personal projects to practice coding
-- 🌐 Improving my problem-solving skills
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafikurniawan&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafikurniawan&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
 
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ye_fann.23)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurniawanrafi421@gmail.com)
+### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
 
 </div>
 
 ---
 
 <div align="center">
-  
-![](https://komarev.com/ghpvc/?username=rafi-dev&color=blue&style=flat-square)
-
-**💙 Thanks for visiting my profile!**
-
+  <p>Made with ❤️ by Rafi Kurniawan</p>
+  <p>⭐️ From Indonesia 🇮🇩</p>
 </div>
