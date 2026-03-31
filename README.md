@@ -2,8 +2,6 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rafi Kurniawan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Newbie+Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+%7C+Always+Growing+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
